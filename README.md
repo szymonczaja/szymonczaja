@@ -1,9 +1,5 @@
 
-👋 Witaj na moim profilu GitHub. Interesuję się uczeniem maszynowym, przetwarzaniem danych.
-
----
-
-### 💻 Moje Technologie i Biblioteki ML
+👋 Witaj na moim profilu GitHub.
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
