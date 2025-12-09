@@ -1,9 +1,13 @@
 
 👋 Witaj na moim profilu GitHub.
 
+
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
   </a>
   <a href="https://keras.io/" target="_blank">
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
@@ -28,6 +32,9 @@
   </a>
   <a href="https://matplotlib.org/" target="_blank">
     <img src="https://img.shields.io/badge/Matplotlib-033069?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
